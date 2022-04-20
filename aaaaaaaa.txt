@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 pyshing
 
+=======
+changes made in git
+>>>>>>> b82bf82fa288441ad90ff11f7a71f37a20f08c44
